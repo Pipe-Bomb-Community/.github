@@ -24,3 +24,4 @@ Use unofficial plugins at your own risk. Always read code before you run it on y
 | [Fanart.tv](https://github.com/pipe-bomb/fanart-tv-plugin)                | ✅       | Attributes artists using the Fanart.tv API.                                                                |
 | [SoundCloud](https://github.com/pipe-bomb-community/soundcloud-plugin)    | ❌       | Provides access to the SoundCloud music library, and identifies and attributes tracks, albums and artists. |
 | [YouTube Music](https://github.com/pipe-bomb-community/soundcloud-plugin) | ❌       | Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.    |
+| [Lidarr](https://github.com/pipe-bomb-community/lidarr-plugin)            | ❌       | Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.                          |
