@@ -25,3 +25,4 @@ Use unofficial plugins at your own risk. Always read code before you run it on y
 | [SoundCloud](https://github.com/pipe-bomb-community/soundcloud-plugin)    | ❌       | Provides access to the SoundCloud music library, and identifies and attributes tracks, albums and artists. |
 | [YouTube Music](https://github.com/pipe-bomb-community/soundcloud-plugin) | ❌       | Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.    |
 | [Lidarr](https://github.com/pipe-bomb-community/lidarr-plugin)            | ❌       | Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.                          |
+| [DLNA](https://github.com/pipe-bomb-community/dlna-plugin)                | ❌       | Makes music on Pipe Bomb available using a DLNA server.                                                    |
