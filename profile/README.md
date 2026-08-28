@@ -10,7 +10,7 @@ Join our community [Discord server](https://discord.gg/NyrAJTUeGY) to chat with 
 
 ## Plugins
 
-Pipe Bomb Community maintains a list of known plugins that do interesting things. If you've developed a plugin and would love to share it with the world, [make a PR!](https://github.com/Pipe-Bomb-Community/.github/pulls)
+Pipe Bomb Community maintains a list of known plugins that do interesting things. If you've developed a plugin and would love to share it with the world, [make a PR!](https://github.com/Pipe-Bomb-Community/community-marketplace/pulls)
 
 Use unofficial plugins at your own risk. Always read code before you run it on your own machine.
 
@@ -26,3 +26,7 @@ Use unofficial plugins at your own risk. Always read code before you run it on y
 | [YouTube Music](https://github.com/pipe-bomb-community/youtube-music-plugin) | ❌       | Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.    |
 | [Lidarr](https://github.com/pipe-bomb-community/lidarr-plugin)            | ❌       | Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.                          |
 | [DLNA](https://github.com/pipe-bomb-community/dlna-plugin)                | ❌       | Makes music on Pipe Bomb available using a DLNA server.                                                    |
+
+## Plugin Marketplace
+
+To access the Community list of plugins from inside your Pipe Bomb server, check out the [Community Marketplace](https://github.com/Pipe-Bomb-Community/community-marketplace).
