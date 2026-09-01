@@ -22,10 +22,13 @@ Use unofficial plugins at your own risk. Always read code before you run it on y
 | [MusicBrainz](https://github.com/pipe-bomb/musicbrainz-plugin)               | ✅       | Identifies and attributes tracks, artists & albums using the MusicBrainz API.                              |
 | [Discogs](https://github.com/pipe-bomb/discogs-plugin)                       | ✅       | Attributes artists using the Discogs API.                                                                  |
 | [Fanart.tv](https://github.com/pipe-bomb/fanart-tv-plugin)                   | ✅       | Attributes artists using the Fanart.tv API.                                                                |
+| [MiniSearch](https://github.com/pipe-bomb/minisearch-plugin)                 | ✅       | Uses MiniSearch to index Tracks, Artists and Albums.                                                       |
 | [SoundCloud](https://github.com/pipe-bomb-community/soundcloud-plugin)       | ❌       | Provides access to the SoundCloud music library, and identifies and attributes tracks, albums and artists. |
 | [YouTube Music](https://github.com/pipe-bomb-community/youtube-music-plugin) | ❌       | Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.    |
 | [Lidarr](https://github.com/pipe-bomb-community/lidarr-plugin)               | ❌       | Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.                          |
 | [DLNA](https://github.com/pipe-bomb-community/dlna-plugin)                   | ❌       | Makes music on Pipe Bomb available using a DLNA server.                                                    |
+| [OpenSubsonic](https://github.com/eyezahhhh/open-subsonic-plugin)            | ❌       | Implements the OpenSubsonic protocol to enable the usage of any OpenSubsonic client with Pipe Bomb.        |
+| [Playlist Cover Art](https://github.com/eyezahhhh/playlist-cover-art-plugin) | ❌       | Adds custom thumbnail generators for playlists.                                                            |
 
 ## Plugin Marketplace
 
