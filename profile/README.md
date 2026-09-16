@@ -29,7 +29,8 @@ Use unofficial plugins at your own risk. Always read code before you run it on y
 | [DLNA](https://github.com/pipe-bomb-community/dlna-plugin)                   | ❌       | Makes music on Pipe Bomb available using a DLNA server.                                                    |
 | [OpenSubsonic](https://github.com/eyezahhhh/open-subsonic-plugin)            | ❌       | Implements the OpenSubsonic protocol to enable the usage of any OpenSubsonic client with Pipe Bomb.        |
 | [Playlist Cover Art](https://github.com/eyezahhhh/playlist-cover-art-plugin) | ❌       | Adds custom thumbnail generators for playlists.                                                            |
-| [API Links](https://github.com/Pipe-Bomb-Community/api-links-plugin)         | ❌       | Provides quick-access links to API endpoints for tracks, artists and albums using an External URL Source.  |
+| [API Links](https://github.com/Pipe-Bomb-Community/api-links-plugin)         | ❌       | Provides quick-access links to API endpoints for tracks, artists and albums.                               |
+| [ListenBrainz](https://github.com/eyezahhhh/listenbrainz-plugin)             | ❌       | Scrobbles to ListenBrainz and creates Pipe Bomb playlists for LB loved tracks and weekly recommendations.  |
 
 ## Plugin Marketplace
 
